@@ -4,16 +4,10 @@
 This is a ReactJS based personal resume/portfolio single page website.
 
 ## Portfolio Sections
-✔️ Summary and About me
-✔️ Skills
-✔️ Education
-✔️ Work Experience
-✔️ Open Source Projects Connected with Github
-✔️ Big Projects
-✔️ Achievements And Certifications 
-✔️ Blogs
-✔️ Talks
-✔️ Podcast
-✔️ Contact me
-✔️ Twitter Timeline
-✔️ Github Profile
+
+✔️ Summary and About me/
+✔️ Skills/
+✔️ Open Source Projects Connected with Github/
+✔️ Blogs/
+✔️ Contact me/
+✔️ Twitter Timeline/
