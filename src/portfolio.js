@@ -12,7 +12,7 @@ const greeting = {
   username: "Jack Jona",
   title: "Hello Everyone, I'm Jack Jona!",
   subTitle: emoji(
-    "I'm a optimistic and passionate Full Stack Software Developer with experience in designing and developing Web and Mobile applications.  I always enjoy a good challengeand continue to learn from my mistakes."
+    "I'm a optimistic and passionate Full Stack Software Developer with experience in designing and developing Web and Mobile applications.  I always enjoy a good challenge and continue to learn from my mistakes."
   ),
   resumeLink:
     "https://github.com/jackjona123",
