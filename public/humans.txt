@@ -1,0 +1,10 @@
+/* TEAM */
+
+Jack Jona
+https://jackjona.com
+@jackjona123
+From: Canada
+
+/* SITE */
+
+Software: Built with React
