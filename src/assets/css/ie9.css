@@ -1,0 +1,35 @@
+/*
+	Dimension by Jack Solutions
+	jacksolutions.ca | @jackjona123
+	Free for personal use with explicit premission.
+*/
+
+/* BG */
+
+	#bg:before {
+		background: rgba(19, 21, 25, 0.5);
+	}
+
+/* Header */
+
+	#header .logo {
+		margin: 0 auto;
+	}
+
+	#header .content {
+		display: inline-block;
+	}
+
+	#header nav ul {
+		display: inline-block;
+	}
+
+		#header nav ul li {
+			display: inline-block;
+		}
+
+/* Main */
+
+	#main article {
+		margin: 0 auto;
+	}

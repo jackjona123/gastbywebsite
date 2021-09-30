@@ -1,0 +1,17 @@
+///
+/// Dimension by JACK SOLUTIONS
+/// jacksolutions.ga | @jackjona123
+/// Free for personal with explicit premission.
+///
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		border-bottom: none;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+	}
