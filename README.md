@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/jackjona123/portfolio/v4/public/logo.png" alt="logo" />
 </p>
 
-# Personal Website - v4
+# Personal Website - v5
 This is the repository for my personal portfolio.
 
 ## Built With:
