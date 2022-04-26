@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jackjona123/portfolio/v4/public/logo.png" alt="logo" />
+  <img src="https://raw.githubusercontent.com/jackjona123/portfolio/v4/public/logo.png" alt="my (Jack Jona) logo" />
 </p>
 
 # Personal Website - v5
@@ -12,7 +12,7 @@ This is the repository for my personal portfolio.
 - Locomotive Scroll
 
 ## Live Site
-To view the live site click [here](https://www.jackjona.live)
+To view the live site click [here](https://www.jackjona.me)
 
 ## Local Development:
 

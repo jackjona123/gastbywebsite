@@ -39,13 +39,13 @@ const PhoneSection = (props: Prop)=>{
     return(
         <PhoneSectionStyles data-scroll-section>
             <div data-scroll data-scroll-speed="2" data-scroll-direction="horizontal" className="image-wrapper">
-                <img src={phoneImgSrc[0]} alt=""/>
+                <img src={phoneImgSrc[0]} alt="mockup of the website experience on mobile"/>
             </div>
             <div data-scroll data-scroll-speed="4" className="image-wrapper">
-                <img src={phoneImgSrc[1]} alt="" />
+                <img src={phoneImgSrc[1]} alt="mockup of the website experience on mobile" />
             </div>
             <div data-scroll data-scroll-speed="-2" data-scroll-direction="horizontal" className="image-wrapper">
-                <img src={phoneImgSrc[2]} alt=""/>
+                <img src={phoneImgSrc[2]} alt="mockup of the website experience on mobile"/>
             </div>
         </PhoneSectionStyles>
     )

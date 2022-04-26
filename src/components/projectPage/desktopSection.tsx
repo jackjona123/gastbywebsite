@@ -35,10 +35,10 @@ const DesktopSection = (props: Prop)=>{
     return(
         <DesktopSectionStyles data-scroll-section >
             <div data-scroll data-scroll-speed={mobile? "1" : "0.5"} className="main">
-                <img src={desktopImgSrc[0]} alt=""/>
+                <img src={desktopImgSrc[0]} alt="mockup of the website experience on a desktop"/>
             </div>
             <div data-scroll data-scroll-speed={mobile? "1" : "4"} className="side">
-                <img src={desktopImgSrc[1]} alt=""/>
+                <img src={desktopImgSrc[1]} alt="mockup of the website experience on a desktop"/>
             </div>
         </DesktopSectionStyles>
     )

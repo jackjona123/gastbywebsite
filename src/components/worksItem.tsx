@@ -188,7 +188,7 @@ const WorksItem = (props: Prop)=>{
                     <motion.div className="thumbnail"
                     style={{left: thumbnailOffset}}
                     >
-                        <img src={src} alt=""/>
+                        <img src={src} alt="an mockup of the website experience on a laptop"/>
                         <motion.div 
                         variants={maskAnimation}
                         transition={{...transition, duration: 1}}

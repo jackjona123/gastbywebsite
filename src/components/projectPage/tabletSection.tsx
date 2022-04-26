@@ -34,10 +34,10 @@ const TabletSection = (props: Prop)=>{
     return(
         <TabletSectionStyles data-scroll-section >
             <div data-scroll data-scroll-speed={mobile? "1" : "4"} className="side">
-                <img src={tabletImgSrc[1]} alt=""/>
+                <img src={tabletImgSrc[1]} alt="mockup of the website experience on a tablet"/>
             </div>
             <div data-scroll data-scroll-speed={mobile? "1" : "0.5"} className="main">
-                <img src={tabletImgSrc[0]} alt=""/>
+                <img src={tabletImgSrc[0]} alt="mockup of the website experience on a tablet"/>
             </div>
         </TabletSectionStyles>
     )

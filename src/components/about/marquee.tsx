@@ -177,7 +177,7 @@ const Marquee = ()=>{
             }}
             transition={{duration: 0.3, ease: "linear"}}
             >
-                <img src={currentImage} alt=""/>
+                <img src={currentImage} alt="award image"/>
             </motion.div>
         </DetailsStyles>
 
